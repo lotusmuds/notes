@@ -190,6 +190,12 @@ function toggleSidebar() {
     const sidebar = document.getElementById('sidebar');
     sidebar.classList.toggle('open');
 }
+
+ menu.forEach(item => {
+    item.addEventListener('click', () => {
+      sidebar.classList.remove('open');
+    });
+  });
 </script>
 
 </body>
