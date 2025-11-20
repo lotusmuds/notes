@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rava Dosa Recipe</title>
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background: #fff8f0;
+    color: #333;
+  }
+
+  header {
+    background-color: #ff6f61;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  header h1 {
+    margin: 0;
+    font-size: 2.5em;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 20px;
+  }
+
+  .recipe-image {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+
+  h2 {
+    color: #ff6f61;
+    margin-top: 30px;
+  }
+
+  ul {
+    list-style: disc inside;
+  }
+
+  ol {
+    padding-left: 20px;
+  }
+
+  .tips {
+    background: #fff3e0;
+    padding: 15px;
+    border-left: 5px solid #ff6f61;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 20px 0;
+    background: #ff6f61;
+    color: white;
+    margin-top: 40px;
+  }
+
+  a {
+    color: white;
+    text-decoration: underline;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Rava Dosa Recipe</h1>
+</header>
+
+<div class="container">
+  <!--<img src="https://images.unsplash.com/photo-1584270354949-4c4c7e9e9e0f?auto=format&fit=crop&w=800&q=80" alt="Pancakes" class="recipe-image">-->
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>1/2 cup rava / semolina / suji, coarse</li>
+    <li>1/2 cup rice flour, fine</li>
+    <li>1/4 cup maida / all purpose flour</li>
+    <li>1 tablespoon yogurt/curd (optional)</li>
+    <li>1 teaspoon salt</li>
+    <li>4 cup water</li>
+    <li>1 chilli, finely chopped</li>
+    <li>1 inch ginger, grated</li>
+	<li>1/2 teaspoon pepper, crushed</li>
+	<li>1/2 teaspoon jeera, cumin</li>
+	<li>few curry leaves, finely chopped</li>
+	<li>2 tablespoon coriander, finely chopped</li>
+	<li>1 onion, finely chopped</li>
+	<li>oil for roasting</li>
+	
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>In a large bowl, put 1/2 cup rava, 1/2 cup rice flour, 1/4 cup and maida, 1 tbsp curd, 1 tsp salt and 2½ cup water.</li>
+    <li>Whisk and mix well making sure there are no lumps.</li>
+    <li>Add 1 chilli, 1 inch ginger, ½ tsp pepper, 1 tsp cumin, few curry leaves, 2 tbsp coriander and 1 onion.</li>
+    <li>Add 1½ cup water and prepare a watery consistency batter.</li>
+    <li>Rest the batter for 20 minutes making sure the rava has absorbed water.</li>
+    <li>After 20 mins mix well making sure the batter is thin watery consistency.</li>
+	<li>Now carefully pour the dosa batter over very hot tawa.</li>
+	<li>Lower the flame and cook until the dosa turns golden and crisp.</li>
+	<li>Serve.</li>
+  </ol>
+
+  <div class="tips">
+    <strong>Tips:</strong>
+    <ul>
+      <li>Do not overmix the batter, it keeps the pancakes fluffy.</li>
+      <li>Use medium heat to prevent burning.</li>
+      <li>You can add chocolate chips or blueberries for extra flavor.</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  <p>&copy; 2025 My Recipe Book | <a href="#">Back to Top</a></p>
+</footer>
+
+</body>
+</html>
